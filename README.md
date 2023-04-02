@@ -1,6 +1,6 @@
 # Game with mediapipe
-- Snake game: `snake.py`
-- Tetris game: `tetris.py`
+- Snake game: [`snake.py`](https://github.com/nxhawk/WORMY)
+- Tetris game: [`tetris.py`](https://github.com/nxhawk/TETRIS-PY)
 
 ## Overview mediapipe
 
